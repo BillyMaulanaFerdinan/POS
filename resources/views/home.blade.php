@@ -7,8 +7,6 @@
     <title>Home</title>
 </head>
 <body>
-    <h1>Selamat Datang di Sistem POS</h1>
-    <p><a href="/category">Lihat Kategori Produk</a></p>
-    <p><a href="/sales">Lihat Penjualan</a></p>
+    <h1>Ini merupakan halaman utama dari POS</h1>
 </body>
 </html>
